@@ -160,7 +160,7 @@ p {
   padding: 0 2rem;
   /* Overlay */
   position: absolute;
-  top: 60px;
+  top: 65px;
   left: 0;
   right: 0;
   bottom: 0;
@@ -245,4 +245,13 @@ p {
   flex: 1;
   text-align: center;
   padding: 1rem;
+}
+
+#contacto a {
+  color: #fff
+}
+
+#contacto a:hover {
+  background: #93cb52;
+  border-radius: 5px;
 }
