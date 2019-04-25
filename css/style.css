@@ -203,3 +203,46 @@ p {
   background: url("https://postmediadriving.files.wordpress.com/2018/05/2019-chevrolet-silverado-engines-13.jpg?w=800&crop=1&strip=all&quality=100")
     no-repeat center center/cover;
 }
+
+/* Nuestras Marcas */
+#clients .items {
+  display: flex;
+}
+
+#clients .items img {
+  display: block;
+  margin: auto;
+  width: 90%;
+  height: 90%;
+}
+
+/* Section: Subastas */
+#subastas .items {
+  display: flex;
+  padding: 1rem;
+}
+
+#subastas .items .item {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Contacto */
+#contacto .items .item i {
+  background: #93cb52;
+  padding: 1rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+#contacto .items {
+  display: flex;
+  padding: 1rem;
+}
+
+#contacto .items .item {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
+}
