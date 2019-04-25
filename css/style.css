@@ -132,10 +132,12 @@ p {
   position: absolute;
   top: 60px;
   left: 0;
+  right: 0;
+  bottom: 0;
   background-color: rgba(0, 0, 0, 0.4);
 }
 
-/* Section: Nosotros */
+/* Section: Subastas */
 #subastas .items {
   display: flex;
   padding: 1rem;
@@ -145,4 +147,15 @@ p {
   flex: 1;
   text-align: center;
   padding: 1rem;
+}
+
+#subastas .items .item i {
+  background: #93cb52;
+  padding: 1rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+#subastas p {
+  text-align: justify;
 }
