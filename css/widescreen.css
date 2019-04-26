@@ -1,0 +1,12 @@
+/* Align Icos to the left */
+#nosotros .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Position Icon */
+#nosotros .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
