@@ -39,4 +39,39 @@
   #showcase h1 {
     margin-top: -2.5rem;
   }
+
+  #nosotros {
+    display: block;
+  }
+
+  #nosotros .nosotros-img {
+    display: none;
+  }
+
+  #nosotros h2 {
+    text-align: center;
+  }
+
+  #nosotros p {
+    text-align: justify;
+  }
+
+  #nosotros h3 {
+    text-decoration: underline;
+  }
+
+  #clients .items {
+    flex-direction: column;
+  }
+  #clients .items img {
+    margin-bottom: 1rem;
+  }
+
+  #clients .items div:last-child {
+    margin-bottom: -2rem;
+  }
+
+  #contacto .items {
+    flex-direction: column;
+  }
 }
