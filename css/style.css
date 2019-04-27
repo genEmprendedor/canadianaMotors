@@ -93,6 +93,7 @@ p {
   padding: 0.5rem 2rem;
   border: none;
   border-radius: 5px;
+  text-align: center;
 }
 
 .btn:hover {
