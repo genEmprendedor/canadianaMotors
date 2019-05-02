@@ -32,7 +32,6 @@ p {
 }
 
 .text-primary {
-  /*color: #93cb52; */
   color: #ff0000;
 }
 
@@ -97,7 +96,6 @@ p {
 }
 
 .btn:hover {
-  /*background: #7ab436; */
   background: #00ff00;
 }
 
@@ -261,4 +259,10 @@ p {
   background: #00ff00;
   color: #000000;
   border-radius: 5px;
+}
+
+/* Footer */
+footer i {
+    color:red;
+
 }
