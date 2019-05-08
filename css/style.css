@@ -266,3 +266,12 @@ footer i {
     color:red;
 
 }
+
+/* Vehículos Disponibles page */
+.grid-container {
+    grid-template-rows: 30% auto 30%;
+}
+
+.grid-items h3 {
+    text-align: center;
+}
